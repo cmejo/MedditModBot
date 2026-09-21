@@ -1,6 +1,6 @@
-# expdevsmodbot
+# MedditModBot
 
-A Devvit moderation bot for [r/ExperiencedDevs](https://reddit.com/r/ExperiencedDevs). It enforces four community-policy features, each independently toggleable between **off**, **shadow** (log-only), and **on** via the install settings page.
+A Devvit moderation bot for [r/medicine](https://reddit.com/r/medicine). It enforces four community-policy features, each independently toggleable between **off**, **shadow** (log-only), and **on** via the install settings page.
 
 ## Features
 
